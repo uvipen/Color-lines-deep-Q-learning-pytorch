@@ -5,7 +5,7 @@
 Here is my python source code for training an agent to play Color lines. It could be seen as a very basic example of Reinforcement Learning's application.
 <p align="center">
   <img src="demo/color_lines.gif" width=600><br/>
-  <i>Tetris demo</i>
+  <i>Color lines demo</i>
 </p>
 
 The demo could also be found at [youtube demo](https://youtu.be/gd_EJJK_wQg)
